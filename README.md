@@ -1,2 +1,2 @@
-# napari_intro_tutorial_scipy2022
-Materials for the "Interactive image analysis with napari " workshop presented at SciPy 2022
+# napari-intro-workshop-scipy2022
+This repo contains materials for a workshop introducing the napari . For instructions on the tutorial, see the [napari-workshops site](https://alisterburt.github.io/napari-workshops/Scipy-0722/intro.html).

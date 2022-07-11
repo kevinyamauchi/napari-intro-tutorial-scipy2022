@@ -8,13 +8,12 @@ channels:
   - defaults
 dependencies:
   - python=3.8
+  - notebook
   - pip
   - pip:
     - cookiecutter
-    - napari
-    - cellpose-napari
-    - notebook
+    - napari[all]
+    - stardist-napari
     - numpy
-    - PyQt5==5.14.2
     - scikit-image
     - scipy
